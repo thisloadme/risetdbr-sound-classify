@@ -1,0 +1,81 @@
+3 dense, 300 epoch, 0.01 lr
+200+ dataset
+0.8958288366069502
+              precision    recall  f1-score   support
+
+         cat       0.85      0.85      0.85       164
+         dog       0.79      0.79      0.79       113
+
+    accuracy                           0.83       277
+   macro avg       0.82      0.82      0.82       277
+weighted avg       0.83      0.83      0.83       277
+
+[[140  24]
+ [ 24  89]]
+
+0.9219728037988344
+              precision    recall  f1-score   support
+
+         cat       0.89      0.85      0.87       164
+         dog       0.79      0.84      0.82       113
+
+    accuracy                           0.84       277
+   macro avg       0.84      0.84      0.84       277
+weighted avg       0.85      0.84      0.85       277
+
+[[139  25]
+ [ 18  95]]
+
+24/09
+0.8920890319120408
+              precision    recall  f1-score   support
+
+         cat       0.84      0.96      0.90       165
+         dog       0.92      0.74      0.82       113
+
+    accuracy                           0.87       278
+   macro avg       0.88      0.85      0.86       278
+weighted avg       0.88      0.87      0.87       278
+
+[[158   7]
+ [ 29  84]]
+
+===============
+0.9474121748458033
+              precision    recall  f1-score   support
+
+         cat       0.93      0.95      0.94       165
+         dog       0.92      0.89      0.91       113
+
+    accuracy                           0.92       278
+   macro avg       0.92      0.92      0.92       278
+weighted avg       0.92      0.92      0.92       278
+
+[[156   9]
+ [ 12 101]]
+
+0.9611155805846071
+              precision    recall  f1-score   support
+
+         cat       0.95      0.88      0.92       165
+         dog       0.85      0.94      0.89       113
+
+    accuracy                           0.91       278
+   macro avg       0.90      0.91      0.90       278
+weighted avg       0.91      0.91      0.91       278
+
+[[146  19]
+ [  7 106]]
+
+0.9650308393671225
+              precision    recall  f1-score   support
+
+         cat       0.90      0.96      0.93       165
+         dog       0.93      0.84      0.88       113
+
+    accuracy                           0.91       278
+   macro avg       0.91      0.90      0.91       278
+weighted avg       0.91      0.91      0.91       278
+
+[[158   7]
+ [ 18  95]]
